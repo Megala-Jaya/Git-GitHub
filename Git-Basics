@@ -1,0 +1,7 @@
+# Commands 
+Git --version --- To check whether git is installed or which version is installed in your computer(Here i'm checking in Mac).
+
+megala@Megalas-MBP ~ % git --version
+git version 2.21.1 (Apple Git-122.3)
+megala@Megalas-MBP ~ % 
+
