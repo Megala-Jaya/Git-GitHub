@@ -5,3 +5,26 @@ megala@Megalas-MBP ~ % git --version
 git version 2.21.1 (Apple Git-122.3)
 megala@Megalas-MBP ~ % 
 
+megala@Megalas-MBP Git % cd Repo name
+EX:
+megala@Megalas-MBP Git % cd Git-GitHub
+megala@Megalas-MBP Git-GitHub % 
+
+git clone Url - To clone the repository from Github to local machine
+Ex:
+git clone https://github.com/Megala-Jaya/Git-GitHub.git
+Cloning into 'Git-GitHub'...
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (5/5), done.
+remote: Total 6 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (6/6), done.
+
+Git-GitHub % ls -la - To list the files in the folder
+megala@Megalas-MBP Git-GitHub % ls -la
+total 16
+drwxr-xr-x   5 megala  staff  160 Apr 12 18:15 .
+drwxr-xr-x   3 megala  staff   96 Apr 12 18:15 ..
+drwxr-xr-x  12 megala  staff  384 Apr 12 18:15 .git
+-rw-r--r--   1 megala  staff  238 Apr 12 18:15 Git-Basics
+-rw-r--r--   1 megala  staff   73 Apr 12 18:15 README.md
