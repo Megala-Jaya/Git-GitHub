@@ -46,3 +46,6 @@ git add filename - to save the file
 git add . - to save the file in the whole repository
 
 megala@Megalas-MBP Git-GitHub % git commit -m "Added  git commands"
+
+Git push - to push the changes made in the local directory to the remote repository.
+
